@@ -10,6 +10,14 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+What GPA/GRE stats actually get CS MS applicants admitted?
+
+This knowledge is valuable because prospective CS master's applicants need realistic 
+benchmarks to decide which programs to apply to, but universities only publish vague 
+admission statistics that do not reflect actual admit profiles. The real data specific 
+GPA, GRE scores, and whether someone got in or rejected, only exists in student-generated 
+posts on Reddit and Gradcafe, making it impossible to find through any official university 
+channel.
 
 ---
 
@@ -20,16 +28,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Reddit r/gradadmissions | MSCS admit/reject results thread with GPA and GRE stats from 2024 applicants | reddit.com/r/gradadmissions |
+| 2 | Reddit r/gradadmissions | Discussion thread on minimum GPA and GRE scores needed for top CS master's programs | reddit.com/r/gradadmissions |
+| 3 | Gradcafe — Carnegie Mellon | ~20 crowdsourced CMU MSCS admission results with GPA, GRE, and admit/reject outcomes | thegradcafe.com |
+| 4 | Gradcafe — Georgia Tech | ~20 crowdsourced GT MSCS admission results with GPA, GRE, and admit/reject outcomes | thegradcafe.com |
+| 5 | Gradcafe — UIUC | ~20 crowdsourced UIUC MCS admission results with GPA, GRE, and admit/reject outcomes | thegradcafe.com |
+| 6 | Gradcafe — Stanford | ~20 crowdsourced Stanford MSCS admission results with GPA, GRE, and admit/reject outcomes | thegradcafe.com |
+| 7 | Reddit r/OMSCS | Student posts about getting admitted to Georgia Tech OMSCS with low GPA and advice for applicants | reddit.com/r/OMSCS |
+| 8 | Reddit r/csMajors | Undergrad experiences applying to CS master's programs with tips and final admission outcomes | reddit.com/r/csMajors |
+| 9 | Reddit r/gradadmissions | Thread specifically about CS master's options for applicants with below 3.5 GPA | reddit.com/r/gradadmissions |
+| 10 | Reddit r/cscareerquestions | Student and alumni opinions on whether an
 
 ---
 
