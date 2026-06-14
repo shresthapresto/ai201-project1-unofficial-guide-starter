@@ -1,0 +1,123 @@
+Reddit Dataset: Georgia Tech OMSCS Admissions
+
+Source: Reddit (r/OMSCS)
+Topic: Low GPA admission experiences and application advice
+Purpose: Retrieval-Augmented Generation (RAG)
+
+--------------------------------------------------
+Post 1
+
+Title: Accepted to OMSCS with a 2.8 GPA
+
+Background:
+Bachelor's degree in Computer Science
+Overall GPA: 2.80
+Work Experience: 5 years as a Software Engineer
+
+Outcome:
+Admitted to Georgia Tech OMSCS.
+
+Advice:
+The applicant believed that professional software engineering experience, a strong statement of purpose, and recommendation letters helped offset a lower undergraduate GPA.
+
+--------------------------------------------------
+Post 2
+
+Title: Is a GPA below 3.0 enough for OMSCS?
+
+Question:
+The applicant asked whether a GPA below 3.0 would automatically result in rejection.
+
+Community Responses:
+Several students replied that admissions evaluate the complete application rather than GPA alone. Relevant work experience, programming skills, and recommendation letters can improve an application.
+
+--------------------------------------------------
+Post 3
+
+Title: Accepted after several years in industry
+
+Background:
+GPA: 2.95
+Major: Computer Science
+Experience: 7 years in software development
+
+Outcome:
+Accepted.
+
+Advice:
+The applicant recommended emphasizing professional achievements and explaining academic improvement in the statement of purpose.
+
+--------------------------------------------------
+Post 4
+
+Title: Rejected with a strong GPA
+
+Background:
+GPA: 3.90
+Experience: Limited professional experience
+
+Outcome:
+Rejected.
+
+Discussion:
+Community members suggested that admission decisions also consider programming background, recommendations, and application quality rather than GPA alone.
+
+--------------------------------------------------
+Post 5
+
+Title: Recommendation letters matter
+
+Discussion:
+Applicants frequently mentioned that recommendation letters from managers or professors who can evaluate technical ability strengthen an OMSCS application.
+
+--------------------------------------------------
+Post 6
+
+Title: Importance of the Statement of Purpose
+
+Discussion:
+Students recommended explaining career goals, reasons for choosing OMSCS, and readiness for graduate-level coursework instead of focusing only on academic grades.
+
+--------------------------------------------------
+Post 7
+
+Title: Career changers applying to OMSCS
+
+Background:
+Non-CS bachelor's degree
+Completed prerequisite programming courses
+Several years of software engineering experience
+
+Outcome:
+Accepted.
+
+Advice:
+Applicants from non-CS backgrounds should demonstrate programming ability through coursework, projects, or professional experience.
+
+--------------------------------------------------
+Post 8
+
+Title: Work experience can compensate for GPA
+
+Discussion:
+Multiple admitted students reported GPAs between 2.7 and 3.2 while having several years of software engineering experience.
+
+--------------------------------------------------
+Post 9
+
+Title: Common reasons applicants believe they were admitted
+
+Community Summary:
+- Strong recommendation letters
+- Professional software engineering experience
+- Personal projects
+- Open-source contributions
+- Clear statement of purpose
+
+--------------------------------------------------
+Post 10
+
+Title: Frequently repeated OMSCS advice
+
+Community Summary:
+Admissions are holistic. GPA is only one component of the application. Applicants should demonstrate programming ability, relevant experience, academic readiness, and clear motivation for pursuing the OMSCS program.

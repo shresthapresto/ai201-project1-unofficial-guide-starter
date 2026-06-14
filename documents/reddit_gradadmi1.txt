@@ -1,0 +1,105 @@
+Reddit Dataset: r/gradadmissions
+
+Source: Reddit (r/gradadmissions)
+
+Topic: MS in Computer Science (MSCS) admission results, applicant profiles, GPA, GRE scores, and application advice from the 2024 admission cycle.
+
+---
+
+Topic 1
+
+Discussion Theme:
+Applicants frequently shared complete admission profiles, including GPA, GRE scores, internships, research experience, recommendation letters, and final admission decisions.
+
+Key Insight:
+Community members compared profiles to estimate competitiveness for various MSCS programs.
+
+---
+
+Topic 2
+
+Discussion Theme:
+Many applicants with GPAs above 3.8 reported receiving both acceptances and rejections from highly selective universities.
+
+Key Insight:
+The discussions suggested that a high GPA alone does not guarantee admission because research experience, recommendation letters, and overall application quality are also considered.
+
+---
+
+Topic 3
+
+Discussion Theme:
+Applicants with lower GPAs often asked whether they still had realistic admission chances.
+
+Key Insight:
+Community responses frequently encouraged strengthening other parts of the application through internships, research projects, work experience, and a compelling statement of purpose.
+
+---
+
+Topic 4
+
+Discussion Theme:
+GRE scores were commonly reported alongside admission outcomes.
+
+Key Insight:
+Applicants observed that some universities still required GRE scores, while many institutions made the GRE optional or did not consider it heavily during admissions.
+
+---
+
+Topic 5
+
+Discussion Theme:
+Research experience was one of the most frequently discussed application components.
+
+Key Insight:
+Students with published papers, undergraduate research, or research assistant positions believed these experiences strengthened applications to research-oriented MSCS programs.
+
+---
+
+Topic 6
+
+Discussion Theme:
+Many applicants shared complete admission results after receiving decisions from multiple universities.
+
+Key Insight:
+Posts often listed admitted, rejected, and waitlisted universities together so future applicants could compare application outcomes across different institutions.
+
+---
+
+Topic 7
+
+Discussion Theme:
+Recommendation letters were regularly discussed before application deadlines.
+
+Key Insight:
+Applicants generally believed that detailed recommendation letters from professors or supervisors who knew their technical abilities carried more value than generic letters.
+
+---
+
+Topic 8
+
+Discussion Theme:
+International applicants frequently discussed TOEFL or IELTS scores together with GPA and GRE statistics.
+
+Key Insight:
+Many discussions focused on balancing English proficiency, academic performance, and research experience when applying to graduate programs in the United States.
+
+---
+
+Topic 9
+
+Discussion Theme:
+Applicants commonly requested university suggestions based on their academic profiles.
+
+Key Insight:
+Responses typically divided universities into ambitious, target, and safe categories according to GPA, research background, internships, and work experience.
+
+---
+
+Topic 10
+
+Discussion Theme:
+Applicants often returned after the admission cycle to summarize their final results.
+
+Key Insight:
+Community members recommended applying to a balanced mix of ambitious, target, and safe universities because admission decisions are holistic and outcomes can vary significantly even among applicants with similar GPAs and test scores.

@@ -1,0 +1,105 @@
+Reddit Dataset: r/cscareerquestions
+
+Source: Reddit (r/cscareerquestions)
+
+Topic: Discussions about whether earning a Master of Science in Computer Science (MSCS) improves career opportunities, salary, and long-term career growth.
+
+---
+
+Topic 1
+
+Discussion Theme:
+Many contributors believe that an MS in Computer Science can improve career opportunities, particularly for specialized software engineering, machine learning, data science, computer vision, robotics, and research-oriented positions.
+
+Key Insight:
+The value of the degree often depends on the applicant's career goals rather than the degree alone.
+
+---
+
+Topic 2
+
+Discussion Theme:
+Several contributors report that professional work experience generally has a larger impact on hiring decisions than a graduate degree for traditional software engineering positions.
+
+Key Insight:
+Applicants with multiple years of industry experience often receive competitive opportunities regardless of whether they hold a master's degree.
+
+---
+
+Topic 3
+
+Discussion Theme:
+Students frequently ask whether pursuing an MS immediately after completing a bachelor's degree is worthwhile.
+
+Key Insight:
+Responses commonly recommend considering financial cost, opportunity cost, and long-term career objectives before enrolling.
+
+---
+
+Topic 4
+
+Discussion Theme:
+Many discussions compare pursuing an MS with continuing to work in industry.
+
+Key Insight:
+Working full-time allows engineers to gain experience and income, while graduate school may provide stronger preparation for research or specialized technical fields.
+
+---
+
+Topic 5
+
+Discussion Theme:
+International students often discuss graduate school as a pathway to additional education, networking opportunities, and access to internships.
+
+Key Insight:
+Many view graduate programs as valuable for expanding career opportunities in the United States.
+
+---
+
+Topic 6
+
+Discussion Theme:
+Salary improvement is a frequent topic of discussion.
+
+Key Insight:
+Community members generally agree that salary growth depends more on experience, interview performance, and employer than on possessing a master's degree alone.
+
+---
+
+Topic 7
+
+Discussion Theme:
+Research experience is commonly discussed when comparing master's and doctoral programs.
+
+Key Insight:
+Students interested in research careers are often encouraged to pursue research projects during graduate school.
+
+---
+
+Topic 8
+
+Discussion Theme:
+Many contributors recommend gaining internships while completing an MS program.
+
+Key Insight:
+Internships during graduate school are viewed as one of the strongest ways to improve employment outcomes after graduation.
+
+---
+
+Topic 9
+
+Discussion Theme:
+Students often ask whether an online MS in Computer Science is respected by employers.
+
+Key Insight:
+Many discussions conclude that employer perception depends more on the reputation of the university, demonstrated technical ability, and work experience than on whether the degree was completed online or in person.
+
+---
+
+Topic 10
+
+Discussion Theme:
+Applicants frequently ask whether a low undergraduate GPA prevents admission to an MS program.
+
+Key Insight:
+Community discussions suggest that research experience, internships, recommendation letters, strong statements of purpose, and professional accomplishments can strengthen an application alongside academic performance.

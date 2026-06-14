@@ -1,0 +1,251 @@
+Stanford University - GradCafe Admission Results
+
+Source: GradCafe
+Institution: Stanford University
+Purpose: Crowdsourced graduate admissions data for Retrieval-Augmented Generation (RAG)
+
+---
+
+Entry 1
+
+School: Stanford University
+Program: Translational Research and Applied Medicine (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: March 31, 2026
+Applicant Type: International
+
+---
+
+Entry 2
+
+School: Stanford University
+Program: Comparative Literature (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: January 24, 2026
+Applicant Type: International
+Notes: Applicant stated this was their second favorite Comparative Literature program. They noted that a preferred faculty member had left the department and mentioned preferring Modern Thought and Literature (MTL).
+
+---
+
+Entry 3
+
+School: Stanford University
+Program: Philosophy (PhD)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 7, 2026
+Applicant Type: American
+GPA: 3.90
+Notes: Applicant was admitted from the waitlist.
+
+---
+
+Entry 4
+
+School: Stanford University
+Program: Mechanical Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 9, 2026
+Applicant Type: American
+GPA: 3.90
+
+---
+
+Entry 5
+
+School: Stanford University
+Program: Mechanical Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 9, 2026
+Applicant Type: International
+Notes: Applicant indicated the outcome was expected.
+
+---
+
+Entry 6
+
+School: Stanford University
+Program: Mechanical Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 9, 2026
+Applicant Type: American
+GPA: 3.93
+Notes: Applicant expected the rejection because of the late stage of the admission cycle but was surprised by the delay in receiving the decision.
+
+---
+
+Entry 7
+
+School: Stanford University
+Program: Mechanical Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 9, 2026
+Applicant Type: International
+Notes: Applicant described the result as devastating.
+
+---
+
+Entry 8
+
+School: Stanford University
+Program: Mechanical Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 9, 2026
+Applicant Type: International
+
+---
+
+Entry 9
+
+School: Stanford University
+Program: Civil and Environmental Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 7, 2026
+Applicant Type: International
+GPA: 3.71
+
+---
+
+Entry 10
+
+School: Stanford University
+Program: Composition (DMA)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 6, 2026
+Applicant Type: International
+Notes: Applicant admitted to the Doctor of Musical Arts (DMA) program.
+
+---
+
+Entry 11
+
+School: Stanford University
+Program: Computer Science (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: March 24, 2026
+Applicant Type: International
+GPA: 3.67
+
+---
+
+Entry 12
+
+School: Stanford University
+Program: Computer Science (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: March 26, 2026
+Applicant Type: International
+GPA: 3.10
+
+---
+
+Entry 13
+
+School: Stanford University
+Program: Electrical Engineering (PhD)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: February 6, 2026
+Applicant Type: American
+GPA: 3.70
+
+---
+
+Entry 14
+
+School: Stanford University
+Program: Symbolic Systems (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: March 24, 2026
+Applicant Type: International
+GPA: 3.99
+
+---
+
+Entry 15
+
+School: Stanford University
+Program: Computer Science (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: March 25, 2026
+Applicant Type: American
+GRE: 336
+GRE Verbal: 166
+GRE Analytical Writing: 5.0
+GPA: 3.89
+
+---
+
+Entry 16
+
+School: Stanford University
+Program: Computer Science (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: March 26, 2026
+Applicant Type: International
+GRE Quantitative: 168
+GRE Verbal: 159
+GRE Analytical Writing: 4.0
+GPA: 3.91
+
+---
+
+Entry 17
+
+School: Stanford University
+Program: Computer Science (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: March 25, 2026
+Applicant Type: American
+GPA: 3.96
+
+---
+
+Entry 18
+
+School: Stanford University
+Program: Computer Science (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: March 25, 2026
+Applicant Type: American
+Notes: Applicant received the decision around 5:00 PM. They believed strong letters of recommendation and a long-term impact-focused statement of purpose connecting their interests with Stanford organizations strengthened their application.
+
+---
+
+Entry 19
+
+School: Stanford University
+Program: Computer Science (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: February 6, 2026
+Applicant Type: International
+
+---
+
+Entry 20
+
+School: Stanford University
+Program: Master of Science in Computer Science (MSCS)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: March 25, 2026
+Applicant Type: American
+GPA: 3.92
+Notes: Applicant reported four undergraduate research experiences, three internships including one at a FAANG company, one sole-authored research paper, one additional submitted paper, and a recommendation letter from a leading researcher in their field.

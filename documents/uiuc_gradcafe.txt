@@ -1,0 +1,252 @@
+University of Illinois Urbana-Champaign (UIUC) - GradCafe Admission Results
+
+Source: GradCafe
+Institution: University of Illinois Urbana-Champaign
+Purpose: Crowdsourced graduate admissions data for Retrieval-Augmented Generation (RAG)
+
+---
+
+Entry 1
+
+School: University of Illinois Urbana-Champaign
+Program: Nuclear Engineering and Radiological Sciences (PhD)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 25, 2026
+Applicant Type: American
+Notes: Applicant stated that receiving the NSF Graduate Research Fellowship (NSF GRFP) helped during the admissions process.
+
+---
+
+Entry 2
+
+School: University of Illinois Urbana-Champaign
+Program: Materials Science and Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 17, 2026
+Applicant Type: American
+GPA: 3.66
+Notes: Offered admission to the master's program without funding. Applicant reported 1.5 years of research experience, no publications, a 3.88 GPA after transferring following freshman year, and did not submit GRE scores.
+
+---
+
+Entry 3
+
+School: University of Illinois Urbana-Champaign
+Program: Mechanical Engineering (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 13, 2026
+Applicant Type: International
+Notes: Admitted to the Master of Engineering (M.Eng.) program.
+
+---
+
+Entry 4
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical and Computer Engineering (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 10, 2026
+Applicant Type: International
+GPA: 3.99
+
+---
+
+Entry 5
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical and Computer Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 10, 2026
+Applicant Type: International
+
+---
+
+Entry 6
+
+School: University of Illinois Urbana-Champaign
+Program: Astronomy (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: March 20, 2026
+Applicant Type: International
+GPA: 3.71
+Notes: Applicant emailed the department requesting a status update and received a rejection email a few hours later.
+
+---
+
+Entry 7
+
+School: University of Illinois Urbana-Champaign
+Program: Computer Science (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 6, 2026
+Applicant Type: International
+GPA: 3.87
+Notes: Applicant mentioned almost giving up before finally receiving the admission email.
+
+---
+
+Entry 8
+
+School: University of Illinois Urbana-Champaign
+Program: Mathematics (PhD)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 6, 2026
+Applicant Type: American
+GPA: 3.98
+Notes: Applicant reported receiving admission after previously being on the waitlist.
+
+---
+
+Entry 9
+
+School: University of Illinois Urbana-Champaign
+Program: Computer Science (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: March 19, 2026
+Applicant Type: International
+GPA: 3.51
+
+---
+
+Entry 10
+
+School: University of Illinois Urbana-Champaign
+Program: Civil and Environmental Engineering (PhD)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: March 31, 2026
+Applicant Type: International
+GPA: 3.85
+Notes: Applicant encouraged future applicants not to give up during the admissions process.
+
+---
+
+Entry 11
+
+School: University of Illinois Urbana-Champaign
+Program: Mechanical Engineering (PhD)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 3, 2026
+Applicant Type: International
+GPA: 3.70
+Notes: Applicant was initially waitlisted by a professor during the last week of March before receiving an acceptance.
+
+---
+
+Entry 12
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical Engineering (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 3, 2026
+Applicant Type: American
+GPA: 3.30
+
+---
+
+Entry 13
+
+School: University of Illinois Urbana-Champaign
+Program: Industrial Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 2, 2026
+Applicant Type: International
+
+---
+
+Entry 14
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical Engineering (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 1, 2026
+Applicant Type: American
+GPA: 3.61
+
+---
+
+Entry 15
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical and Computer Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 1, 2026
+Applicant Type: International
+
+---
+
+Entry 16
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical and Computer Engineering (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 1, 2026
+Applicant Type: American
+GPA: 3.94
+Notes: Applicant reported receiving admission offers from multiple higher-ranked Electrical and Computer Engineering master's programs, including Stanford, and speculated that the rejection may have been due to yield protection.
+
+---
+
+Entry 17
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical and Computer Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 1, 2026
+Applicant Type: International
+Notes: Applicant completed an interview but believed their interview performance contributed to the rejection.
+
+---
+
+Entry 18
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical and Computer Engineering (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 1, 2026
+Applicant Type: International
+GPA: 3.65
+
+---
+
+Entry 19
+
+School: University of Illinois Urbana-Champaign
+Program: Electrical and Computer Engineering (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 1, 2026
+Applicant Type: International
+GRE Quantitative: 165
+GRE Verbal: 153
+GRE Analytical Writing: 3.5
+GPA: 3.55
+
+---
+
+Entry 20
+
+School: University of Illinois Urbana-Champaign
+Program: Computer Science (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: March 16, 2026
+Applicant Type: International
+GPA: 3.88

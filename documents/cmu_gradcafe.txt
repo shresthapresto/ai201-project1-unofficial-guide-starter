@@ -1,0 +1,250 @@
+Carnegie Mellon University (CMU) - GradCafe Admission Results
+
+Source: GradCafe
+Institution: Carnegie Mellon University
+Purpose: Crowdsourced graduate admissions data for Retrieval-Augmented Generation (RAG)
+
+---
+
+Entry 1
+
+School: CMU
+Program: Biomedical Engineering (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: March 4, 2026
+Applicant Type: International
+GPA: 4.00
+Notes: Application transferred from direct PhD application. Applicant reported 2 first-author papers and 2 second-author papers.
+
+---
+
+Entry 2
+
+School: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Program: PhD
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: February 21, 2026
+Applicant Type: American
+GPA: 3.90
+Notes: Interview conducted through the University of Pittsburgh side of the program.
+
+---
+
+Entry 3
+
+School: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Program: PhD
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: February 23, 2026
+Applicant Type: International
+GPA: 4.00
+Notes: Undergraduate degree in Computer Science from Texas Tech University. Applicant reported two submitted publications, one manuscript in progress, one additional work in progress, and two summer REU experiences.
+
+---
+
+Entry 4
+
+School: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Program: PhD
+Application Term: Fall 2026
+Decision: Waitlisted
+Decision Date: February 23, 2026
+Applicant Type: International
+GPA: 3.60
+Notes: Applicant received an email directing them to check the application portal.
+
+---
+
+Entry 5
+
+School: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Program: PhD
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: February 23, 2026
+Applicant Type: International
+GPA: 4.00
+
+---
+
+Entry 6
+
+School: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Program: PhD
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: February 23, 2026
+Applicant Type: American
+Notes: Applicant reported no interview and received an email directing them to check the application portal.
+
+---
+
+Entry 7
+
+School: Carnegie Mellon University
+Program: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: February 23, 2026
+Applicant Type: International
+GPA: 3.95
+
+---
+
+Entry 8
+
+School: Carnegie Mellon University (CMU)
+Program: Mechanical Engineering (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: February 13, 2026
+Applicant Type: International
+GPA: 3.95
+
+---
+
+Entry 9
+
+School: CMU
+Program: Human-Computer Interaction (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: February 13, 2026
+Applicant Type: American
+GPA: 2.67
+
+---
+
+Entry 10
+
+School: University of Pittsburgh
+Program: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 22, 2026
+Applicant Type: American
+Notes: Applicant received an interview invitation with a University of Pittsburgh professor. Approximately 50 applicants were interviewed from 535 total applicants, with about 25 expected admission offers.
+
+---
+
+Entry 11
+
+School: University of Pittsburgh
+Program: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Application Term: Fall 2026
+Status: Interview
+Interview Date: January 12, 2026
+Applicant Type: International
+
+---
+
+Entry 12
+
+School: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Program: PhD
+Application Term: Fall 2026
+Status: Interview
+Interview Date: January 11, 2026
+Applicant Type: American
+GPA: 3.80
+Notes: Interview conducted with a University of Pittsburgh professor.
+
+---
+
+Entry 13
+
+School: Carnegie Mellon University
+Program: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Application Term: Fall 2025
+Decision: Rejected
+Decision Date: February 11, 2025
+Applicant Type: International
+Notes: Applicant received an email directing them to check the application portal.
+
+---
+
+Entry 14
+
+School: University of Pittsburgh
+Program: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Application Term: Fall 2025
+Decision: Accepted
+Decision Date: February 11, 2025
+Applicant Type: American
+GPA: 4.00
+Notes: Acceptance came from the University of Pittsburgh side after a portal update.
+
+---
+
+Entry 15
+
+School: Carnegie Mellon University
+Program: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Application Term: Fall 2025
+Decision: Rejected
+Decision Date: February 11, 2025
+Applicant Type: International
+GPA: 3.90
+
+---
+
+Entry 16
+
+School: Carnegie Mellon University
+Program: Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)
+Application Term: Fall 2025
+Decision: Rejected
+Decision Date: February 11, 2025
+Applicant Type: International
+GPA: 4.00
+
+---
+
+Entry 17
+
+School: CMU
+Program: Physics (PhD)
+Application Term: Fall 2024
+Decision: Waitlisted
+Decision Date: March 28, 2024
+Applicant Type: International
+Notes: Applicant reported not hearing further updates after being waitlisted.
+
+---
+
+Entry 18
+
+School: Carnegie Mellon University
+Program: Joint CMU-Pitt Ph.D. Program in Computational Biology
+Application Term: Fall 2024
+Decision: Accepted
+Decision Date: February 8, 2024
+Applicant Type: International
+GPA: 3.54
+Notes: Applicant reported two admission waves: one through CMU without interviews and one through the University of Pittsburgh with interviews. Acceptance came through the Pittsburgh side.
+
+---
+
+Entry 19
+
+School: CMU
+Program: Master's in AI in Mechanical Engineering
+Application Term: Fall 2024
+Decision: Accepted
+Decision Date: February 15, 2024
+Applicant Type: International
+
+---
+
+Entry 20
+
+School: CMU
+Program: Robotics (PhD)
+Application Term: Fall 2024
+Decision: Rejected
+Decision Date: February 13, 2024
+Applicant Type: International
+Notes: Applicant stated that approximately 35 applicants were admitted from around 850 applicants.

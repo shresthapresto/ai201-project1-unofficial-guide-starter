@@ -1,0 +1,237 @@
+Georgia Institute of Technology - GradCafe Admission Results
+
+Source: GradCafe
+Institution: Georgia Institute of Technology
+Purpose: Crowdsourced graduate admissions data for Retrieval-Augmented Generation (RAG)
+
+---
+
+Entry 1
+
+School: Georgia Institute of Technology
+Program: Robotics (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: May 20, 2026
+Applicant Type: American
+GPA: 3.60
+Notes: Mechanical Engineering undergraduate with two years of work experience and three published papers completed during undergraduate studies.
+
+---
+
+Entry 2
+
+School: Georgia Institute of Technology
+Program: Business Administration (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: May 1, 2026
+Applicant Type: American
+
+---
+
+Entry 3
+
+School: Georgia Institute of Technology
+Program: Aerospace Engineering (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 29, 2026
+Applicant Type: International
+Notes: Applicant expressed disappointment after receiving the decision.
+
+---
+
+Entry 4
+
+School: Georgia Institute of Technology
+Program: Music Technology (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 17, 2026
+Applicant Type: International
+GPA: 3.40
+
+---
+
+Entry 5
+
+School: Georgia Institute of Technology
+Program: Computational Science and Engineering (ECE) (Master's)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 17, 2026
+Applicant Type: American
+GPA: 3.96
+Notes: Applicant reported undergraduate physics and astronomy research, eight years of professional experience, two years as a Georgia Tech research engineer, and three recommendation letters from Georgia Tech faculty.
+
+---
+
+Entry 6
+
+School: Georgia Institute of Technology
+Program: Computer Science (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 13, 2026
+Applicant Type: American
+
+---
+
+Entry 7
+
+School: Georgia Institute of Technology
+Program: Chemistry (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 13, 2026
+Applicant Type: American
+
+---
+
+Entry 8
+
+School: Georgia Institute of Technology
+Program: Mechanical Engineering (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 13, 2026
+Applicant Type: International
+GPA: 3.65
+
+---
+
+Entry 9
+
+School: Georgia Institute of Technology
+Program: Neuroscience and Neurotechnology (Biological Sciences) (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 13, 2026
+Applicant Type: International
+
+---
+
+Entry 10
+
+School: Georgia Institute of Technology
+Program: Operations Research (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 3, 2026
+Applicant Type: International
+Notes: Applicant was rejected after previously being placed on the waitlist.
+
+---
+
+Entry 11
+
+School: Georgia Institute of Technology
+Program: Mathematics (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 9, 2026
+Applicant Type: American
+
+---
+
+Entry 12
+
+School: Georgia Institute of Technology
+Program: Mathematics (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 8, 2026
+Applicant Type: American
+
+---
+
+Entry 13
+
+School: Georgia Institute of Technology
+Program: Computational Science and Engineering (Mathematics) (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 8, 2026
+Applicant Type: International
+
+---
+
+Entry 14
+
+School: Georgia Institute of Technology
+Program: Aerospace Engineering (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 1, 2026
+Applicant Type: American
+GPA: 3.80
+
+---
+
+Entry 15
+
+School: Georgia Institute of Technology
+Program: Civil and Environmental Engineering (PhD)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: March 27, 2026
+Applicant Type: American
+Notes: Applicant interviewed with the principal investigator on March 20. Funding offer was received one day after the admission notification.
+
+---
+
+Entry 16
+
+School: Georgia Institute of Technology
+Program: Industrial Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 3, 2026
+Applicant Type: International
+
+---
+
+Entry 17
+
+School: Georgia Institute of Technology
+Program: Industrial Engineering (PhD)
+Application Term: Fall 2026
+Decision: Rejected
+Decision Date: April 3, 2026
+Applicant Type: International
+
+---
+
+Entry 18
+
+School: Georgia Institute of Technology
+Program: Computer Science and Engineering (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 3, 2026
+Applicant Type: International
+Notes: Applicant received an admission email from the College of Computing (CoC) home unit.
+
+---
+
+Entry 19
+
+School: Georgia Institute of Technology
+Program: Robotics (Interactive Computing) (Master's)
+Application Term: Fall 2026
+Decision: Accepted
+Decision Date: April 1, 2026
+Applicant Type: International
+
+---
+
+Entry 20
+
+School: Georgia Institute of Technology
+Program: Electrical Engineering (PhD)
+Application Term: Fall 2026
+Decision: Waitlisted
+Decision Date: April 2, 2026
+Applicant Type: International
+GPA: 3.95

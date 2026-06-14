@@ -1,0 +1,105 @@
+Reddit Dataset: r/gradadmissions
+
+Source: Reddit (r/gradadmissions)
+
+Topic: Minimum GPA, GRE scores, and applicant competitiveness for top Computer Science master's programs.
+
+---
+
+Topic 1
+
+Discussion Theme:
+Applicants frequently ask what undergraduate GPA is considered competitive for top MS in Computer Science programs.
+
+Key Insight:
+Community discussions suggest that applicants with GPAs above approximately 3.7 are generally considered competitive for highly selective universities, although admission decisions remain holistic.
+
+---
+
+Topic 2
+
+Discussion Theme:
+Students with GPAs between 3.3 and 3.6 often ask whether they still have realistic admission opportunities.
+
+Key Insight:
+Responses commonly recommend strengthening the application with research experience, internships, strong recommendation letters, and a well-written statement of purpose.
+
+---
+
+Topic 3
+
+Discussion Theme:
+Many applicants discuss whether GRE scores are still important.
+
+Key Insight:
+Community members note that many universities have made the GRE optional or no longer require it, while a few programs continue to consider strong GRE quantitative scores as a positive factor.
+
+---
+
+Topic 4
+
+Discussion Theme:
+Applicants compare profiles consisting of GPA, GRE scores, internships, research experience, and publications.
+
+Key Insight:
+The discussions emphasize that admissions committees evaluate the complete application rather than relying on a single academic metric.
+
+---
+
+Topic 5
+
+Discussion Theme:
+Students with lower GPAs frequently ask whether professional work experience can compensate for academic performance.
+
+Key Insight:
+Many contributors believe that relevant software engineering experience demonstrates technical ability and may strengthen an otherwise weaker academic profile.
+
+---
+
+Topic 6
+
+Discussion Theme:
+Research experience is commonly discussed when evaluating competitiveness for top universities.
+
+Key Insight:
+Applicants with undergraduate research, conference papers, or publications are generally viewed as stronger candidates for research-oriented graduate programs.
+
+---
+
+Topic 7
+
+Discussion Theme:
+Recommendation letters are a recurring topic before application deadlines.
+
+Key Insight:
+Students recommend obtaining detailed recommendation letters from professors or supervisors who can provide specific examples of technical skills, research ability, and academic potential.
+
+---
+
+Topic 8
+
+Discussion Theme:
+Applicants frequently ask how to select universities based on their academic profile.
+
+Key Insight:
+Community members commonly recommend dividing applications into ambitious, target, and safe schools to improve the likelihood of receiving multiple admission offers.
+
+---
+
+Topic 9
+
+Discussion Theme:
+Many discussions compare applicants with similar GPAs but different admission outcomes.
+
+Key Insight:
+The community often concludes that statements of purpose, recommendation letters, research experience, internships, and program fit can significantly influence admissions decisions.
+
+---
+
+Topic 10
+
+Discussion Theme:
+Students often seek advice for improving future application cycles after receiving rejections.
+
+Key Insight:
+Common recommendations include gaining additional research experience, completing advanced computer science coursework, improving programming projects, obtaining stronger recommendation letters, and reapplying with a more balanced university list.
