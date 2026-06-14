@@ -36,7 +36,7 @@ channel.
 | 7 | Reddit r/OMSCS | Student posts about getting admitted to Georgia Tech OMSCS with low GPA and advice for applicants | reddit.com/r/OMSCS |
 | 8 | Reddit r/csMajors | Undergrad experiences applying to CS master's programs with tips and final admission outcomes | reddit.com/r/csMajors |
 | 9 | Reddit r/gradadmissions | Thread specifically about CS master's options for applicants with below 3.5 GPA | reddit.com/r/gradadmissions |
-| 10 | Reddit r/cscareerquestions | Student and alumni opinions on whether an
+| 10 | Reddit r/cscareerquestions | Student and alumni opinions on whether an MS in CS improved career prospects and salary |
 ---
 
 ## Chunking Strategy
